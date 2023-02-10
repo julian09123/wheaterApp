@@ -1,0 +1,235 @@
+[
+    
+    {
+        "id": 3435910,
+        "name": "Buenos Aires",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -58.377232,
+            "lat": -34.613152
+        }
+    },
+    {
+        "id": 3837056,
+        "name": "San Luis",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.335632,
+            "lat": -33.29501
+        }
+    },
+    {
+        "id": 3860259,
+        "name": "Cordoba",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.1811,
+            "lat": -31.4135
+        }
+    },
+    {
+        "id": 3844421,
+        "name": "Mendoza",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.827171,
+            "lat": -32.890839
+        }
+    },
+    {
+        "id": 3837213,
+        "name": "San Juan",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.536392,
+            "lat": -31.5375
+        }
+    },
+    {
+        "id": 3853404,
+        "name": "Jujuy",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.0,
+            "lat": -23.0
+        }
+    },
+    {
+        "id": 3838233,
+        "name": "Salta",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.411659,
+            "lat": -24.7859
+        }
+    },
+    {
+        "id": 3433899,
+        "name": "Formosa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -58.178139,
+            "lat": -26.17753
+        }
+    },
+    {
+        "id": 3861887,
+        "name": "Chaco",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.5,
+            "lat": -26.0
+        }
+    },
+    {
+        "id": 3430657,
+        "name": "Misiones",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -55.0,
+            "lat": -27.0
+        }
+    },
+    {
+        "id": 3835869,
+        "name": "Santiago del Estero",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -64.26149,
+            "lat": -27.795111
+        }
+    },
+    {
+        "id": 3833578,
+        "name": "Tucuman",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -65.5,
+            "lat": -27.0
+        }
+    },
+    {
+        "id": 3862286,
+        "name": "Catamarca",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.0,
+            "lat": -27.0
+        }
+    },
+    {
+        "id": 3435217,
+        "name": "Corrientes",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -58.834099,
+            "lat": -27.4806
+        }
+    },
+    {
+        "id": 3848950,
+        "name": "La Rioja",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.85067,
+            "lat": -29.411051
+        }
+    },
+    {
+        "id": 3836277,
+        "name": "Santa Fe",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -60.700001,
+            "lat": -31.633329
+        }
+    },
+    {
+        "id": 3434137,
+        "name": "Entre Rios",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -59.0,
+            "lat": -32.0
+        }
+    },
+    {
+        "id": 3849574,
+        "name": "La Pampa",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -66.0,
+            "lat": -37.0
+        }
+    },
+    {
+        "id": 3843123,
+        "name": "Neuquen",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -68.059097,
+            "lat": -38.951611
+        }
+    },
+    {
+        "id": 3838830,
+        "name": "Rio Negro",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.0,
+            "lat": -40.0
+        }
+    },
+    {
+        "id": 3861244,
+        "name": "Chubut",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -69.0,
+            "lat": -44.0
+        }
+    },
+    {
+        "id": 3836350,
+        "name": "Santa Cruz",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -70.0,
+            "lat": -49.0
+        }
+    },
+    {
+        "id": 3834450,
+        "name": "Tierra del Fuego",
+        "state": "",
+        "country": "AR",
+        "coord": {
+            "lon": -67.0,
+            "lat": -54.5
+        }
+    }
+
+
+]

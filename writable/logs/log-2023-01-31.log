@@ -1,0 +1,36 @@
+CRITICAL - 2023-01-31 02:56:53 --> file_get_contents(http://localhost/web-codeigniterpublic/city.list.json): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+
+in APPPATH\Views\home.php on line 2.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_contents(http://localhost/web-codeigniterpublic/city.list.json): Failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+', 'APPPATH\\Views\\home.php', 2)
+ 2 APPPATH\Views\home.php(2): file_get_contents('http://localhost/web-codeigniterpublic/city.list.json')
+ 3 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home.php')
+ 4 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home', [], true)
+ 6 APPPATH\Controllers\Home.php(33): view('home', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-31 02:59:36 --> Undefined variable $contruy
+in APPPATH\Views\home.php on line 4.
+ 1 APPPATH\Views\home.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $contruy', 'APPPATH\\Views\\home.php', 4)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Home.php(33): view('home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-01-31 02:59:46 --> Array to string conversion
+in APPPATH\Views\home.php on line 87.
+ 1 APPPATH\Views\home.php(87): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'APPPATH\\Views\\home.php', 87)
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\home.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1177): CodeIgniter\View\View->render('home', [], true)
+ 5 APPPATH\Controllers\Home.php(33): view('home', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
